@@ -68,5 +68,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License
-
- ``Please note that this documentation assumes the program is organized as a Python package with a `main.py` file and a `requirements.txt` file for dependency installation. You may need to modify the instructions based on your specific project structure.``
